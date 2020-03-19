@@ -1,0 +1,13 @@
+$ git init
+
+$ git add .
+
+$ git commit -m "Iniciando commit"
+
+$ git remote add origin https://github.com/clfonte/coronga.git
+
+$ git add .
+
+$ git commit -m "index"
+
+$  git push -u origin master
